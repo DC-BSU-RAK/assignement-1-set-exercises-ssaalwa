@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", 400; /* Add font for the body */
+}
+
+
+header {
+    background-color: #17072b; 
+    color: white; 
+    font-family: "Tahoma", 700;
+    text-align: center; /* Center align the header text */
+    padding: 1rem; /* Spacing inside the header */
+    font-size: 20px; /* Header font size */
+}
+
+
+nav {
+    margin-top: 1rem; /* Adds space above the navigation */
+}
+
+nav a {
+    color: white; 
+    margin: 0 10px; /* Horizontal spacing between links */
+    text-decoration: none; /* Removes underline from links */
+    font-size: larger; /* Increases font size */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Underlines links on hover */
+}
+
+
+.welcome-digifest {
+    padding: 2rem; /* Adds space inside the section */
+}
+
+.welcome-digifest h1 {
+    color: black; 
+    font-family: "Tahoma", 700; 
+    font-size: 40px; /* Large font size for the heading */
+}
+
+.welcome-digifest p {
+    font-family: "Arial", 400;
+    font-size: 23px; /* Medium font size for paragraphs */
+}
+
+.welcome-digifest img {
+    width: 850px; 
+    height: 352px; 
+}
+
+
+.sidebar {
+    height: 80.6vh; 
+    width: 620px; /* Fixed width for the sidebar */
+    background-color: #172d67; 
+    position: absolute; /* Absolute positioning */
+    top: 25%; /* Places the sidebar 25% down from the top */
+    right: 0; /* Aligns the sidebar to the right */
+    color: white; 
+}
+
+
+.images-digi img {
+    width: 279px; 
+    margin-left: 20px; /* Adds space to the left of images */
+    margin-top: 50px; /* Adds space above images */
+}
+
+
+.sidebar h2 {
+    font-size: 40px; 
+    margin-left: 30px; /* Adds left margin to the heading */
+}
+
+
+.sidebar ul {
+    font-size: 23px; 
+    margin-left: 10px; /* Adds left margin to the list */
+}
+
+
+footer {
+    background-color: #8c15e9; 
+    color: #FFFFFF; 
+    text-align: center; /* Center-aligns the text */
+    padding: 3px; /* Adds padding inside the footer */
+    margin-top: 20px; /* Adds space above the footer */
+    font-size: larger; /* Increases font size */
+}
+
+
+
+
+
+
